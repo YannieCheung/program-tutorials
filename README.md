@@ -49,6 +49,3 @@ How to become a qualified developer !
 
 
 
-<a href="https://mega.nz/file/FSU1EbyQ#vbHuSZmKUUSrfwlwiFz4HxahmdbM7RGOyNZMiusdemY" target="_blank">
-   <img alt="Death Knight 2" src="https://i.imgur.com/3nXwSoy.jpeg" width="50%">
-</a>
